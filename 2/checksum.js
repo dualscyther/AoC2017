@@ -9,8 +9,8 @@ let rl = require("readline").createInterface({
 });
 
 let checksum = 0;
-rl.on('line', handleLine);
-rl.on('close', () => console.log(checksum))
+rl.on("line", handleLine);
+rl.on("close", () => console.log(checksum));
 
 // Functions are hoisted in js so no need to declare earlier
 function handleLine(line) {
