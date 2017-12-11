@@ -2,6 +2,13 @@
 
 <http://adventofcode.com/2017/>
 
-1. O(n)
-1. O(n)
-1. Kappa
+## Running times
+1. Inverse Captcha
+    1. O(n)
+    1. O(n)
+1. Corruption Checksum
+    1. O(n)
+    1. asdf
+1. Spiral memory
+    1. O(1)
+    1. asdf
