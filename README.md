@@ -13,3 +13,9 @@
 1. Spiral memory
     1. O(1)
     1. O(n)
+1. High-Entropy Passphrases
+    1. O(nlogn)
+    1. O(nlogn)
+1. A Maze of Twisty Trampolines, All Alike
+    1. Kappa
+    1. Keepo
