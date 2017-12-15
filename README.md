@@ -17,5 +17,5 @@
     1. O(nlogn)
     1. O(nlogn)
 1. A Maze of Twisty Trampolines, All Alike
-    1. Kappa
-    1. Keepo
+    1. O(n<sup>2</sup>)
+    1. Not sure @todo
