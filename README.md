@@ -19,3 +19,6 @@
 1. A Maze of Twisty Trampolines, All Alike
     1. O(n<sup>2</sup>)
     1. Not sure @todo
+1. Memory Reallocation
+    1. Very long
+    1. Very long (same as Part 1)
