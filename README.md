@@ -22,3 +22,6 @@
 1. Memory Reallocation
     1. Very long
     1. Very long (same as Part 1)
+1. Recursive Circus
+    1. O(n + m) average if object key lookup is O(1) average
+    1. Keepo
