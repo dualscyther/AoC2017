@@ -1,5 +1,9 @@
 # Dano's solutions to Advent of Code 2017
 
+**This repository has moved to GitLab**
+
+<https://gitlab.com/dualscyther/AoC2017>
+
 <http://adventofcode.com/2017/>
 
 ## Running times
